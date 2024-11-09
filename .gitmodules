@@ -1,0 +1,3 @@
+[submodule "160mm/STL/Handle/DoomLatch"]
+	path = 160mm/STL/Handle/DoomLatch
+	url = https://github.com/tlace17/DoomLatch.git
